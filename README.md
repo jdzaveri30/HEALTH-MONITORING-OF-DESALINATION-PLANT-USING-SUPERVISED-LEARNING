@@ -1,0 +1,2 @@
+# HEALTH-MONITORING-OF-DESALINATION-PLANT-USING-SUPERVISED-LEARNING
+Early detection of membrane fouling using ML
